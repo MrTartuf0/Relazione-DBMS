@@ -17,5 +17,9 @@ export default defineAppConfig({
       exclude: [],
       fluid: true
     }
+  },
+
+  nuxtIcon: {
+    aliases: {}
   }
 })
