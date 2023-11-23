@@ -1,7 +1,7 @@
 export default defineAppConfig({
   docus: {
-    title: 'Application Layer',
-    description: 'Relazione dettagliata sul livello applicativo dell\'iso/osi.',
+    title: 'Relazione dbms',
+    description: 'Database & DBMS',
     aside: {
       level: 0,
       collapsed: false,
